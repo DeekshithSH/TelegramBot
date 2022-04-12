@@ -1,4 +1,3 @@
-uvloop
 pyrogram
 tgcrypto
 python-dotenv
